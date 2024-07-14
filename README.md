@@ -27,6 +27,7 @@ seleccionadas no serán reservadas y serás redireccionado a la elección de pel
 y cancelar la reserva de cualquier butaca. Al presionar "Continuar" verás una especie de recibo con los identificadores
 de las butacas.
 
--Pantalla 4: Soporte
+-Pantalla 4: Para ingresar al soporte, tienes que ir a la seccion de seleccionar butacas. Al final, continuo al boton de continuar, se vera un texto en el cual dice "¿Está teniendo algún problema para comprar su entrada? Contacte con nuestro servicio técnico, dando click aquí". Al hacer click en "aqui" lo llevara al archivo soporte_tecnico.html, el cual le pedira ingresar su nombre y podra hablar a gusto con las personas de soporte tecnico.
+
 
 NOTA: En todas las pantallas al presionar en el logo ubicado en la parte superior izquierda volverás a la pantalla de inicio.
